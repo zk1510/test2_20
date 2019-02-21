@@ -1,10 +1,6 @@
 
 hello
 2nd update
-3th update
-4th update
-5th update
-6th update
 update by dev
 update by test
 update by dev
